@@ -1,0 +1,79 @@
+body { 
+	font-style: 'Montserrat', sans-serif;
+	color: rgb(103, 20, 119);
+	background: rgb(225, 226, 230); 
+	margin: 0; 
+	}
+
+.topnav {
+	overflow: hidden;
+	background-color: rgb(136, 132, 132);
+	  }
+	  
+.topnav a {
+	float: left;
+	display: block;
+	color: rgb(168, 164, 164));
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	  }
+
+h1  { 
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:  rgb(255, 255, 255);
+	background: url("yeast.jpg");
+	text-align: center;
+	}
+
+footer{ 
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	}
+
+h3 { 
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: rgb(14, 89, 202);
+	text-align: center;
+	border-bottom-style: solid;
+	margin-top: 75px;
+		}
+
+ul {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	text-align: center;
+		}
+
+.grid {
+	border: 2px rgb(255, 255, 255);
+	width: 200px;
+	height: 250px;
+	display: grid;
+	grid-template: 300px 300px/500px 500px
+	}
+	
+p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+div.gallery {
+	display: block;
+	border: 1px solid #ccc;
+	float: left;
+	margin: 75px;
+  }
+
+figcaption, .databases {
+	text-align:center;
+  }
+  
