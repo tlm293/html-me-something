@@ -5,6 +5,11 @@ body {
 	margin: 0; 
 	}
 
+#pub_color{
+	color:  black;
+}
+
+
 .topnav {
 	overflow: hidden;
 	background-color: rgb(136, 132, 132);
